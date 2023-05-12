@@ -8,3 +8,4 @@ db.sqlite3
 /media
 venv
 /btre/static
+.vercel
